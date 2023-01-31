@@ -1,0 +1,2 @@
+# Akaike
+Assignments_folder
